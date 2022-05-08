@@ -1,0 +1,15 @@
+print("------ 여기 아래 부터 실행 결과 입니다 -----")
+print("== [예제] 자료형 ==")
+print("문자형")
+print(111)
+print(True)
+print()
+
+print("== [예제] 사칙연산 ==")
+print(1 + 1)
+print(3 - 2)
+print(2000 * 11)
+print(303 / 3)
+print(304 % 3)
+print(2 ** 8)
+
